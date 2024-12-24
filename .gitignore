@@ -1,0 +1,7 @@
+# ide related
+.envrc
+.spyproject/
+# pycache
+__pycache__/
+# lambda layer
+*.zip 
